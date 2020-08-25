@@ -1,0 +1,6 @@
+echo "# dw-frontend-20202" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jjmo15/dw-frontend-20202.git
+git push -u origin master
